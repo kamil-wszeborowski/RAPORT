@@ -1,26 +1,5 @@
 package com.kwszeborowski.model;
 
-
-//public abstract class Client {
-//    private String name;
-//    private String city;
-//
-//    Client(String name, String city) {
-//        this.name = name;
-//        this.city = city;
-//    }
-//
-//    public abstract void accept(Visitor v);
-//
-//    public String getCity() {
-//        return city;
-//    }
-//
-//    void setCity(String city) {
-//        this.city = city;
-//    }
-//}
-
 import java.util.ArrayList;
 import java.util.Collection;
 
